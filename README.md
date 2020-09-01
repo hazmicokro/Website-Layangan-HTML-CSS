@@ -1,2 +1,2 @@
-# layangan.github.io
+# hazmicokro.github.io
 Submission Akhir Kelas "Belajar Dasar Pemrograman Web"
