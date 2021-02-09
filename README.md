@@ -1,2 +1,4 @@
 # hazmicokro.github.io
-Submission Akhir Kelas "Belajar Dasar Pemrograman Web"
+Submission Akhir Kelas "Belajar Dasar Pemrograman Web" - Dicoding
+
+Tittle : Layangan
